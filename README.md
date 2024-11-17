@@ -2,7 +2,7 @@
   [![2RM4IQn.th.png](https://iili.io/2RM4IQn.th.png)](https://freeimage.host/i/2RM4IQn)
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andres-david-993b3b338/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:andresdavid.dev.1405@gmail.com)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 🧔🏾‍♂️I am a passionate Web Developer from Medellín 🌱, Colombia  with +2 years of experience. My goal is to create creative solutions, unique experiences and innovative projects that not only meet expectations but exceed them.👍🏾
 
 

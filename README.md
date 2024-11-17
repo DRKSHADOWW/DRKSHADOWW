@@ -2,6 +2,7 @@
   [![2RM4IQn.th.png](https://iili.io/2RM4IQn.th.png)](https://freeimage.host/i/2RM4IQn)
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andres-david-993b3b338/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:andresdavid.dev.1405@gmail.com)
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
 
 🧔🏾‍♂️I am a passionate Web Developer from Medellín 🌱, Colombia  with +2 years of experience. My goal is to create creative solutions, unique experiences and innovative projects that not only meet expectations but exceed them.👍🏾
 

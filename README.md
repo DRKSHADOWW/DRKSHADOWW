@@ -1,5 +1,4 @@
-### Hi there 👋, my name is Andrés Murillo
-[!TIP]    
+### Hi there 👋, my name is Andrés Murillo   
   
   [![2RM4IQn.th.png](https://iili.io/2RM4IQn.th.png)](https://freeimage.host/i/2RM4IQn)
 

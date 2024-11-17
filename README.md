@@ -1,5 +1,5 @@
 ### ![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif) Andrés Murillo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
-  [![2RM4IQn.th.png](https://iili.io/2RM4IQn.th.png)]()
+  
   <img align='right' src='https://iili.io/2RM4IQn.th.png' width='200"'>
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andres-david-993b3b338/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:andresdavid.dev.1405@gmail.com)

@@ -1,7 +1,7 @@
 ### ![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif) Andrés David Murillo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
 <a>
-<img src="https://iili.io/27cFjbn.png" alt="imagen"  width="350px" height="350px" align="right" >
+<img src="https://iili.io/27cFjbn.png" alt="imagen"  width="300px" height="300px" align="right" >
   
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://web-portfolio-andrew.netlify.app/)
 </a>

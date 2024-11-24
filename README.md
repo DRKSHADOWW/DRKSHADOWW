@@ -11,7 +11,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:andresdavid.dev.1405@gmail.com)
 
 
-🧔🏾‍♂️I am a passionate Web Developer from Medellín 🌱, Colombia  with +2 years of experience. My goal is to create creative solutions, unique experiences and innovative projects that not only meet expectations but exceed them.👍🏾
+🧔🏾‍♂️I am a passionate Web Developer from Medellín 🌱, Colombia  with +1 years of experience. My goal is to create creative solutions, unique experiences and innovative projects that not only meet expectations but exceed them.👍🏾
 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
